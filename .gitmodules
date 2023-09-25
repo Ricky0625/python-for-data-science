@@ -7,3 +7,6 @@
 [submodule "python-2-datatable"]
 	path = python-2-datatable
 	url = https://github.com/Ricky0625/python-2-datatable.git
+[submodule "python-3-oop"]
+	path = python-3-oop
+	url = https://github.com/Ricky0625/python-3-oop.git
