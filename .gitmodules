@@ -1,3 +1,6 @@
 [submodule "python-0-starting"]
 	path = python-0-starting
 	url = https://github.com/Ricky0625/python-0-starting.git
+[submodule "python-1-array"]
+	path = python-1-array
+	url = ./python-1-array
