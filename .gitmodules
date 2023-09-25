@@ -4,3 +4,6 @@
 [submodule "python-1-array"]
 	path = python-1-array
 	url = https://github.com/Ricky0625/python-1-array.git
+[submodule "python-2-datatable"]
+	path = python-2-datatable
+	url = https://github.com/Ricky0625/python-2-datatable.git
