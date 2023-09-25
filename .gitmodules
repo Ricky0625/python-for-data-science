@@ -10,3 +10,6 @@
 [submodule "python-3-oop"]
 	path = python-3-oop
 	url = https://github.com/Ricky0625/python-3-oop.git
+[submodule "python-4-dod"]
+	path = python-4-dod
+	url = https://github.com/Ricky0625/python-4-dod.git
