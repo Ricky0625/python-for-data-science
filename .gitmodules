@@ -3,4 +3,4 @@
 	url = https://github.com/Ricky0625/python-0-starting.git
 [submodule "python-1-array"]
 	path = python-1-array
-	url = ./python-1-array
+	url = https://github.com/Ricky0625/python-1-array.git
